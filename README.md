@@ -1,2 +1,2 @@
 # DiceRoll
-![Image description](img.png)
+<img src="img.png" width="300" height="400">
